@@ -1,0 +1,5 @@
+We will be using RDBMS. 
+The datastore will be made with 1 table having the columns: primary_key time_stamp, api_id, user_id, success_status, response_time. 
+This allows us to answer the given queries using sql commands.
+RDBMS will support the million queries
+
